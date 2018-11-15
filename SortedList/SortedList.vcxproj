@@ -118,16 +118,20 @@
     <ClCompile Include="CustomerData.cpp" />
     <ClCompile Include="CustomerList.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NodeType.cpp" />
     <ClCompile Include="NumberInfo.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="PhoneNumber.cpp" />
+    <ClCompile Include="SortedType.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CustomerData.h" />
     <ClInclude Include="CustomerList.h" />
+    <ClInclude Include="NodeType.h" />
     <ClInclude Include="NumberInfo.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="PhoneNumber.h" />
+    <ClInclude Include="SortedType.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
